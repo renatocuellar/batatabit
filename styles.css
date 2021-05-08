@@ -240,13 +240,14 @@ border-radius: 0 15px 0 0;
     height: 30px;
     margin: 0 auto;
     margin-top: 15px;
+    margin-bottom: 15px;
     padding: 8px;
     background-color: var(--soft-orange);
     border-radius: 10px;
 }
 
 .currency-table--date p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.5rem;
     color: var(--warm-black);
 }
